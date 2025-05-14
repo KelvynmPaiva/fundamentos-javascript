@@ -53,5 +53,5 @@ Alguns tópicos abordados nos arquivos:
 Você pode clonar este repositório e navegar pelas pastas:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/KelvynmPaiva/fundamentos-javascript.git
 cd nome-do-repositorio
