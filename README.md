@@ -8,10 +8,13 @@ Este repositório contém meus estudos e práticas com conceitos básicos de **J
 
 O projeto está dividido em pastas que representam os principais tópicos estudados:
 
-- **arrays/**: exemplos e testes com métodos de arrays (map, filter, reduce, etc).
+- **arrays/**: exemplos e testes com métodos de arrays (`map`, `filter`, `reduce`, etc).
 - **funcoes/**: funções básicas, funções anônimas, arrow functions, entre outras variações.
 - **variaveis/**: declarações com `var`, `let` e `const`, escopo e boas práticas.
-- **objetos/** (caso exista): manipulação de objetos, acesso a propriedades e métodos.
+- **objetos/**: manipulação de objetos, acesso a propriedades e métodos.
+- **lacos/**: utilização de laços de repetição como `for`, `while` e `do...while`.
+- **operadores/**: operadores aritméticos, lógicos, relacionais, de atribuição, entre outros.
+- **tipos-dados/**: tipos primitivos como `string`, `number`, `boolean`, `null`, `undefined`, e `symbol`.
 
 ---
 
